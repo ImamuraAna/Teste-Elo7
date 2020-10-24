@@ -1,0 +1,45 @@
+#container{
+    position: relative;
+    top: 0px;
+    margin: 0px;
+    width: 960px;
+    align-content: center;
+    margin: 10px;
+    font-family:"cambay", sans-serif;
+    font-size: 14px;
+    color: #5E5E5E;
+}
+
+.center {
+    text-align: center;
+}
+
+.card-text {
+    text-align: justify;
+}
+
+.card-title {
+    color:#7C7977;
+    font: 16px;
+    text-align: center;
+    font-weight: 800;
+}
+
+.card-title-header {
+    position: absolute;
+    font-size: 46px;
+    padding-left: 275px;
+    top: 61%;
+    font-weight: 600;
+    color:white;
+}
+
+.texto-header {
+    text-align: center;
+    padding: 20px 40px 30px 40px;
+}
+
+.vaga-link {
+    padding-top: 15px; 
+    border-top:solid 2px #E3E3E3 ;
+}
