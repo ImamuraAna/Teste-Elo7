@@ -91,3 +91,44 @@ h6 {
     font-weight: 700;
     padding-bottom: 25px;
 }
+
+.diferenciais {
+    padding: 40px;
+    color:#B0AFB1;
+}
+
+.card-group {
+    padding-top: none;
+}
+
+
+
+.saiba-mais {
+    text-align: center;
+}
+
+.saiba-mais-link {
+    width: 300px;
+    padding-top: 15px;
+    border-top:solid 2px #E3E3E3;
+    white-space: nowrap;
+}
+
+.card {
+    border-color: white;
+    align-items: center;
+}
+
+.card-img-top {
+    width: 150px;
+    margin-top: 20px;
+}
+
+.link {
+    text-align: center;
+}
+
+.saiba-mais {
+    width: 100%;
+    padding: 0% 45% 0% 45%;
+}
