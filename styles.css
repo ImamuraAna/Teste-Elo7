@@ -39,9 +39,13 @@
     padding: 20px 40px 30px 40px;
 }
 
-.vaga-link {
+#vaga-link {
     padding-top: 15px; 
+    margin-left: 400px;
     border-top:solid 2px #E3E3E3 ;
+    width: 180px;
+    color: dodgerblue;
+    white-space: nowrap;
 }
 
 .time {
@@ -79,17 +83,6 @@
 
 .img-membros {
     margin-right: 10px;
-}
-
-h5 {
-    color: #7C7977;
-    font-weight: 700;
-}
-
-h6 {
-    color: #FEB930;
-    font-weight: 700;
-    padding-bottom: 25px;
 }
 
 .diferenciais {
@@ -132,3 +125,59 @@ h6 {
     width: 100%;
     padding: 0% 45% 0% 45%;
 }
+
+.vagas {
+   text-align: center; 
+}
+
+.img-bottom {
+    width: 100%;
+    clear: both;
+    padding:40px 40px 40px 20px;
+
+}
+
+h5 {
+    color: #7C7977;
+    font-weight: 700;
+}
+
+h6 {
+    color: #FEB930;
+    font-weight: 700;
+    padding-bottom: 25px;
+}
+
+.area-vagas {
+    padding: 40px 50px 40px 40px;
+}
+
+.desenvolvimento {
+    text-align: left;
+    color: #7C7977;
+    font-weight: 700;
+}
+
+.table-vagas {
+    width: 100%;
+  }
+  
+.nome-cargo {
+    color:#40A4A7;
+    text-align: initial;
+    font-weight: 700;
+    height: 30px;
+    font-size: 16px;
+
+}
+
+.localizacao-cargo {
+    color: #5E5E5E;
+    text-align: end;
+    font-size: 16px;
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+    background-color:  #ebe9e9;
+  }
+
