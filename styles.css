@@ -1,0 +1,134 @@
+#container{
+    position: relative;
+    top: 0px;
+    margin: 0px;
+    width: 960px;
+    align-content: center;
+    margin: 10px;
+    font-family:"cambay", sans-serif;
+    font-size: 14px;
+    color: #5E5E5E;
+}
+
+.center {
+    text-align: center;
+}
+
+.card-text {
+    text-align: justify;
+}
+
+.card-title {
+    color:#7C7977;
+    font: 16px;
+    text-align: center;
+    font-weight: 800;
+}
+
+.card-title-header {
+    position: absolute;
+    font-size: 46px;
+    padding-left: 275px;
+    top: 61%;
+    font-weight: 600;
+    color:white;
+}
+
+.texto-header {
+    text-align: center;
+    padding: 20px 40px 30px 40px;
+}
+
+.vaga-link {
+    padding-top: 15px; 
+    border-top:solid 2px #E3E3E3 ;
+}
+
+.time {
+    background-color: #F8F8F8;
+    padding: 40px;
+    margin-top: 40px;
+    align-items: center;
+}
+
+.img-ceo {
+    width: 410px;
+    float: left;
+}
+
+.text-ceo {
+    width: 430px;
+    margin-left: 30px;
+    float: right;
+}
+
+.membros {
+    clear: both;
+    text-align: center;
+}
+
+.membros-texto {
+    padding: 40px;
+    text-align: center;
+}
+
+.membros-texto-center {
+    width: 30%;
+    margin: 0% 37% 0% 37%;
+}
+
+.img-membros {
+    margin-right: 10px;
+}
+
+h5 {
+    color: #7C7977;
+    font-weight: 700;
+}
+
+h6 {
+    color: #FEB930;
+    font-weight: 700;
+    padding-bottom: 25px;
+}
+
+.diferenciais {
+    padding: 40px;
+    color:#B0AFB1;
+}
+
+.card-group {
+    padding-top: none;
+}
+
+
+
+.saiba-mais {
+    text-align: center;
+}
+
+.saiba-mais-link {
+    width: 300px;
+    padding-top: 15px;
+    border-top:solid 2px #E3E3E3;
+    white-space: nowrap;
+}
+
+.card {
+    border-color: white;
+    align-items: center;
+}
+
+.card-img-top {
+    width: 150px;
+    margin-top: 20px;
+}
+
+.link {
+    text-align: center;
+}
+
+.saiba-mais {
+    width: 100%;
+    padding: 0% 45% 0% 45%;
+}
